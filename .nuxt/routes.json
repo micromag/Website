@@ -3,28 +3,24 @@
     "name": "Blog",
     "path": "/Blog",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Blog.vue",
-    "chunkName": "pages/Blog",
-    "_name": "_1b2f56db"
+    "chunkName": "pages/Blog"
   },
   {
     "name": "Issues",
     "path": "/Issues",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Issues.vue",
-    "chunkName": "pages/Issues",
-    "_name": "_ab7b2c9a"
+    "chunkName": "pages/Issues"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_6b8ea109"
+    "chunkName": "pages/index"
   },
   {
     "name": "slug",
     "path": "/:slug",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/_slug.vue",
-    "chunkName": "pages/_slug",
-    "_name": "_69d7ffc1"
+    "chunkName": "pages/_slug"
   }
 ]
