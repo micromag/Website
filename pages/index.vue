@@ -58,7 +58,7 @@
               Sign up to get updates straight to your inbox
             </h2>
         
-            <p class="max-w-3xl mt-3 text-lg leading-6 font-bold" style="color:#A42530; text-size: 20px;">
+            <p class="max-w-3xl mt-3 text-lg leading-6 font-bold" style="color:#A42530; text-size:20px;">
               Enter your email to be the first to know about the latest news
             </p>
           </div>
