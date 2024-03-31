@@ -1,6 +1,6 @@
-export const ArticleCard = () => import('../../components/ArticleCard.vue' /* webpackChunkName: "components/article-card" */).then(c => wrapFunctional(c.default || c))
-export const Footer = () => import('../../components/Footer.vue' /* webpackChunkName: "components/footer" */).then(c => wrapFunctional(c.default || c))
-export const Header = () => import('../../components/Header.vue' /* webpackChunkName: "components/header" */).then(c => wrapFunctional(c.default || c))
+export { default as ArticleCard } from '../../components/ArticleCard.vue'
+export { default as Footer } from '../../components/Footer.vue'
+export { default as Header } from '../../components/Header.vue'
 
 // nuxt/nuxt.js#8607
 function wrapFunctional(options) {
