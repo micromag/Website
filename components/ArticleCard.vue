@@ -6,7 +6,7 @@
       </div>
       <div class="flex-1 bg-white p-6 flex flex-col justify-between">
         <div class="flex-1">
-          <p class="text-sm font-medium text-indigo-600" style="color:#A42530">
+          <p class="text-sm font-medium text-indigo-600">
             {{ type }}
           </p>
           <a href="#" class="block mt-2">
