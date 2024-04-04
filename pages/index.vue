@@ -29,6 +29,7 @@
                     <ArticleCard
                         v-for="article in articles"
                         :key="article.content.title"
+                        :type="article.content.type"
                         :title="article.content.title"
                         :description="article.content.description"
                         :slug="`/${article.slug}`"
