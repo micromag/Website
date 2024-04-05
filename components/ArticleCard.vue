@@ -50,7 +50,7 @@
 <script>
 export default {
   props: {
-    type: Object,
+    type: String,
     title: String,
     slug: String,
     description: String,
