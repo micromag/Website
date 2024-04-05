@@ -7,11 +7,11 @@
     "_name": "_1b2f56db"
   },
   {
-    "name": "Issues",
-    "path": "/Issues",
-    "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Issues.vue",
-    "chunkName": "pages/Issues",
-    "_name": "_ab7b2c9a"
+    "name": "Magazines",
+    "path": "/Magazines",
+    "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Magazines.vue",
+    "chunkName": "pages/Magazines",
+    "_name": "_c6640d14"
   },
   {
     "name": "index",
