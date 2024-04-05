@@ -6,6 +6,12 @@
     "chunkName": "pages/Blog"
   },
   {
+    "name": "Issue7",
+    "path": "/Issue7",
+    "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Issue7.vue",
+    "chunkName": "pages/Issue7"
+  },
+  {
     "name": "Issue8",
     "path": "/Issue8",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Issue8.vue",
