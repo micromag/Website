@@ -30,6 +30,48 @@
               <p class="text-base leading-7 text-gray-300"> 5 Awesome Features </p>
               <a href="/Issue7" class="rounded-md bg-blue-400 px-3 py-1.5 text-sm font-semibold text-grey-900 shadow-sm hover:bg-blue-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">More Details</a>
             </li>
+            <!-- Issue 6 -->
+            <li>
+              <img class="aspect-[14/13] w-full rounded-2xl object-cover" src="/Issue6.png" alt="Issue 6 Cover image" />
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-white"> Issue 6 </h3>
+              <p class="text-base leading-7 text-gray-300"> Build a Robot </p>
+              <a href="/Issue6" class="rounded-md bg-blue-400 px-3 py-1.5 text-sm font-semibold text-grey-900 shadow-sm hover:bg-blue-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">More Details</a>
+            </li>
+            <!-- Issue 5 -->
+            <li>
+              <img class="aspect-[14/13] w-full rounded-2xl object-cover" src="/Issue7.png" alt="Issue 7 Cover image" />
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-white"> Issue 7 </h3>
+              <p class="text-base leading-7 text-gray-300"> 5 Awesome Features </p>
+              <a href="/Issue7" class="rounded-md bg-blue-400 px-3 py-1.5 text-sm font-semibold text-grey-900 shadow-sm hover:bg-blue-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">More Details</a>
+            </li>
+            <!-- Issue 4 -->
+            <li>
+              <img class="aspect-[14/13] w-full rounded-2xl object-cover" src="/Issue7.png" alt="Issue 7 Cover image" />
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-white"> Issue 7 </h3>
+              <p class="text-base leading-7 text-gray-300"> 5 Awesome Features </p>
+              <a href="/Issue7" class="rounded-md bg-blue-400 px-3 py-1.5 text-sm font-semibold text-grey-900 shadow-sm hover:bg-blue-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">More Details</a>
+            </li>
+            <!-- Issue 3 -->
+            <li>
+              <img class="aspect-[14/13] w-full rounded-2xl object-cover" src="/Issue7.png" alt="Issue 7 Cover image" />
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-white"> Issue 7 </h3>
+              <p class="text-base leading-7 text-gray-300"> 5 Awesome Features </p>
+              <a href="/Issue7" class="rounded-md bg-blue-400 px-3 py-1.5 text-sm font-semibold text-grey-900 shadow-sm hover:bg-blue-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">More Details</a>
+            </li>
+            <!-- Issue 2 -->
+            <li>
+              <img class="aspect-[14/13] w-full rounded-2xl object-cover" src="/Issue7.png" alt="Issue 7 Cover image" />
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-white"> Issue 7 </h3>
+              <p class="text-base leading-7 text-gray-300"> 5 Awesome Features </p>
+              <a href="/Issue7" class="rounded-md bg-blue-400 px-3 py-1.5 text-sm font-semibold text-grey-900 shadow-sm hover:bg-blue-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">More Details</a>
+            </li>
+            <!-- Issue 1 -->
+            <li>
+              <img class="aspect-[14/13] w-full rounded-2xl object-cover" src="/Issue7.png" alt="Issue 7 Cover image" />
+              <h3 class="mt-6 text-lg font-semibold leading-8 tracking-tight text-white"> Issue 7 </h3>
+              <p class="text-base leading-7 text-gray-300"> 5 Awesome Features </p>
+              <a href="/Issue7" class="rounded-md bg-blue-400 px-3 py-1.5 text-sm font-semibold text-grey-900 shadow-sm hover:bg-blue-300 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">More Details</a>
+            </li>
           </ul>
         </div>
       </main>

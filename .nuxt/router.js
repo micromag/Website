@@ -5,6 +5,12 @@ import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
 const _1b2f56db = () => interopDefault(import('../pages/Blog.vue' /* webpackChunkName: "pages/Blog" */))
+const _b2bf4b1e = () => interopDefault(import('../pages/Issue1.vue' /* webpackChunkName: "pages/Issue1" */))
+const _b2a31c1c = () => interopDefault(import('../pages/Issue2.vue' /* webpackChunkName: "pages/Issue2" */))
+const _b286ed1a = () => interopDefault(import('../pages/Issue3.vue' /* webpackChunkName: "pages/Issue3" */))
+const _b26abe18 = () => interopDefault(import('../pages/Issue4.vue' /* webpackChunkName: "pages/Issue4" */))
+const _b24e8f16 = () => interopDefault(import('../pages/Issue5.vue' /* webpackChunkName: "pages/Issue5" */))
+const _b2326014 = () => interopDefault(import('../pages/Issue6.vue' /* webpackChunkName: "pages/Issue6" */))
 const _b2163112 = () => interopDefault(import('../pages/Issue7.vue' /* webpackChunkName: "pages/Issue7" */))
 const _b1fa0210 = () => interopDefault(import('../pages/Issue8.vue' /* webpackChunkName: "pages/Issue8" */))
 const _c6640d14 = () => interopDefault(import('../pages/Magazines.vue' /* webpackChunkName: "pages/Magazines" */))
@@ -26,6 +32,30 @@ export const routerOptions = {
     path: "/Blog",
     component: _1b2f56db,
     name: "Blog"
+  }, {
+    path: "/Issue1",
+    component: _b2bf4b1e,
+    name: "Issue1"
+  }, {
+    path: "/Issue2",
+    component: _b2a31c1c,
+    name: "Issue2"
+  }, {
+    path: "/Issue3",
+    component: _b286ed1a,
+    name: "Issue3"
+  }, {
+    path: "/Issue4",
+    component: _b26abe18,
+    name: "Issue4"
+  }, {
+    path: "/Issue5",
+    component: _b24e8f16,
+    name: "Issue5"
+  }, {
+    path: "/Issue6",
+    component: _b2326014,
+    name: "Issue6"
   }, {
     path: "/Issue7",
     component: _b2163112,
