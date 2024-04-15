@@ -11,7 +11,7 @@
 
       <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
         <div class="hidden sm:mb-8 sm:flex sm:justify-center">
-          <h1 class="relative px-10 py-1 text-3xl font-bold leading-8 text-blue-600">
+          <h1 class="relative px-10 py-1 text-3xl font-bold leading-8 text-white">
             The home for all your micro:bit  <!--<a href="#" class="font-semibold text-white"><span class="absolute inset-0" aria-hidden="true" />Read more <span aria-hidden="true">&rarr;</span></a>-->
           </h1>
         </div>
