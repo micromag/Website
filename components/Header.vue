@@ -20,9 +20,9 @@
         <NuxtLink to ="/Magazines" class="text-md font-semibold leading-6 text-white">
             Magazines
         </NuxtLink>
-        <!--<NuxtLink to ="/Blog" class="text-md font-semibold leading-6 text-gray-900">
-            Blog
-        </NuxtLink> -->
+        <NuxtLink to ="/Contribute" class="text-md font-semibold leading-6 text-white">
+            Contribute
+        </NuxtLink>
       </div>
       <div class="hidden lg:flex lg:flex-1 lg:justify-end">
         <!--<a href="#" class="text-sm font-semibold leading-6 text-gray-900">Log in <span aria-hidden="true">&rarr;</span></a>-->
@@ -57,12 +57,12 @@
                         <div class="mt-6">
                           <nav class="grid gap-y-8">
         
-                            <NuxtLink to="/Magazines" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
+                            <NuxtLink to="/Contribute" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
                               Magazines
                             </NuxtLink>
-                            <!--<NuxtLink to="/Blog" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
-                              Blog
-                            </NuxtLink> -->
+                            <NuxtLink to="/Contrubute" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
+                              Contribute
+                            </NuxtLink>
                           </nav>
                         </div>
                       </div>

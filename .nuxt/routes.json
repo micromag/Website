@@ -1,10 +1,17 @@
 [
   {
-    "name": "Blog",
-    "path": "/Blog",
-    "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Blog.vue",
-    "chunkName": "pages/Blog",
-    "_name": "_1b2f56db"
+    "name": "Contribute",
+    "path": "/Contribute",
+    "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Contribute.vue",
+    "chunkName": "pages/Contribute",
+    "_name": "_4a6bbb66"
+  },
+  {
+    "name": "Guidelines",
+    "path": "/Guidelines",
+    "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Guidelines.vue",
+    "chunkName": "pages/Guidelines",
+    "_name": "_d5653908"
   },
   {
     "name": "Issue1",
