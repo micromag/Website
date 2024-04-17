@@ -127,7 +127,7 @@
                                 <span>
                                     <strong class="font-semibold text-blue-400">Formatting:</strong> 
                                     Read the guidelines 
-                                    <NuxtLink to="/Guidelines" class=" font-medium text-white hover:text-blue-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 p-3">
+                                    <NuxtLink to="/Guidelines" target="_Blank" class=" font-medium text-white hover:text-blue-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 p-3">
                                         here
                                 </NuxtLink>
                                     how to format your article ready for submitting.
