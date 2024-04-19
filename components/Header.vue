@@ -23,6 +23,9 @@
         <NuxtLink to ="/Contribute" class="text-md font-semibold leading-6 text-white">
             Contribute
         </NuxtLink>
+        <NuxtLink to ="/ContactUs" class="text-md font-semibold leading-6 text-white">
+            Contact Us
+        </NuxtLink>
       </div>
       <div class="hidden lg:flex lg:flex-1 lg:justify-end">
         <!--<a href="#" class="text-sm font-semibold leading-6 text-gray-900">Log in <span aria-hidden="true">&rarr;</span></a>-->
@@ -62,6 +65,9 @@
                             </NuxtLink>
                             <NuxtLink to="/Contrubute" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
                               Contribute
+                            </NuxtLink>
+                            <NuxtLink to="/ContactUs" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
+                              Contact Us
                             </NuxtLink>
                           </nav>
                         </div>
