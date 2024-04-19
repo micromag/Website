@@ -3,7 +3,7 @@
         <Header />
         <div class="mx-auto max-w-3xl text-base leading-7 text-white">
             <h1 class="mt-2 text-4xl font-bold tracking-tight text-blue-400 sm:text-5xl">Submissions Form</h1>
-            <form name="articles" netlify>
+            <form name="articles" method="POST" data-netlify="true">
                 <div class="space-y-12">
 
                     <!--Profile Info-->
