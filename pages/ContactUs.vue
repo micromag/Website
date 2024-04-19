@@ -8,7 +8,7 @@
             </p>
             
             <div class="mt-10 max-w-2xl">
-                <form name="contact" class="mx-auto mt-16 max-w-xl sm:mt-20" netlify>
+                <form name="contact" class="mx-auto mt-16 max-w-xl sm:mt-20" method="POST" netlify>
                 <!--<form name="contact" method="POST" class="mx-auto mt-16 max-w-xl sm:mt-20" data-netlify="true">-->
                     <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
                         <div>
