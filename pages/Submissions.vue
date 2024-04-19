@@ -118,7 +118,7 @@
                                 </label>
                                 <div class="mt-2">
                                     <div class="flex rounded-md bg-white/5 ring-1 ring-inset ring-white/10 focus-within:ring-2 focus-within:ring-inset focus-within:ring-indigo-500">
-                                        <input type="text" name="article-name" id="article-name" autocomplete="articlename" class="flex-1 border-0 bg-white py-1.5 pl-1 text-grey-900 focus:ring-0 sm:text-sm sm:leading-6" placeholder="Here is an awesome micro:bit project" />
+                                        <input type="text" name="article-name" id="article-name" autocomplete="articlename" class="flex-1 border-0 bg-white py-1.5 pl-1 text-gray-900 focus:ring-0 sm:text-sm sm:leading-6" placeholder="Here is an awesome micro:bit project" />
                                     </div>
                                 </div>
                             </div>
@@ -196,7 +196,7 @@
                                 </label>
                                 <div class="mt-2">
                                     <div class="flex rounded-md bg-white/5 ring-1 ring-inset ring-white/10 focus-within:ring-2 focus-within:ring-inset focus-within:ring-indigo-500">
-                                        <input type="text" name="article-assets" id="article-assets" autocomplete="articleassets" class="flex-1 border-0 bg-white py-1.5 pl-1 text-grey-900 focus:ring-0 sm:text-sm sm:leading-6" placeholder="paste link to images" />
+                                        <input type="text" name="article-assets" id="article-assets" autocomplete="articleassets" class="flex-1 border-0 bg-white py-1.5 pl-1 text-gray-900 focus:ring-0 sm:text-sm sm:leading-6" placeholder="paste link to images" />
                                     </div>
                                     <p class="mt-3 text-sm leading-6 text-white">
                                     Link to Google drive or similar service containing the images for your article.
