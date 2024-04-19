@@ -15,6 +15,7 @@ const _b2326014 = () => interopDefault(import('../pages/Issue6.vue' /* webpackCh
 const _b2163112 = () => interopDefault(import('../pages/Issue7.vue' /* webpackChunkName: "pages/Issue7" */))
 const _b1fa0210 = () => interopDefault(import('../pages/Issue8.vue' /* webpackChunkName: "pages/Issue8" */))
 const _c6640d14 = () => interopDefault(import('../pages/Magazines.vue' /* webpackChunkName: "pages/Magazines" */))
+const _49628e04 = () => interopDefault(import('../pages/Submissions.vue' /* webpackChunkName: "pages/Submissions" */))
 const _6b8ea109 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 const _69d7ffc1 = () => interopDefault(import('../pages/_slug.vue' /* webpackChunkName: "pages/_slug" */))
 
@@ -73,6 +74,10 @@ export const routerOptions = {
     path: "/Magazines",
     component: _c6640d14,
     name: "Magazines"
+  }, {
+    path: "/Submissions",
+    component: _49628e04,
+    name: "Submissions"
   }, {
     path: "/",
     component: _6b8ea109,

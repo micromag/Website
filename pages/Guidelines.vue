@@ -2,7 +2,7 @@
     <div class="bg-gray-900 px-6 py-32 lg:px-8">
         <Header />
         <div class="mx-auto max-w-3xl text-base leading-7 text-white">
-            <h1 class="mt-2 text-3xl font-bold tracking-tight text-blue-400 sm:text-4xl">Guidelines</h1>
+            <h1 class="mt-2 text-4xl font-bold tracking-tight text-blue-400 sm:text-5xl">Guidelines</h1>
             <p class="mt-6 text-xl leading-8">
                 We've got some simple guidelines to follow when writing an article for micro:mag. Please read them below 
                 <b>before you start writing.</b>
