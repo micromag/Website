@@ -32,7 +32,7 @@
                                     About
                                 </label>
                                 <div class="mt-2">
-                                    <textarea id="about" name="about" rows="3" class="block w-full rounded-md border-0 bg-white/5 py-1.5 text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6" />
+                                    <textarea id="about" name="about" rows="3" class="block w-full rounded-md border-0 bg-white/5 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6" />
                                 </div>
                                 <p class="mt-3 text-sm leading-6 text-white">
                                     Write a few sentences about yourself.
@@ -139,7 +139,7 @@
                                     Article Description
                                 </label>
                                 <div class="mt-2">
-                                    <textarea id="description" name="description" rows="3" class="block w-full rounded-md border-0 bg-white/5 py-1.5 text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6" />
+                                    <textarea id="description" name="description" rows="3" class="block w-full rounded-md border-0 bg-white/5 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6" />
                                 </div>
                                 <p class="mt-3 text-sm leading-6 text-white">
                                     Write a few sentences about your article. This will be displayed on the article card.
