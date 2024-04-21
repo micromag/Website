@@ -9,6 +9,7 @@
             
             <div class="mt-10 max-w-2xl">
                 <form name="contact" method="POST"  data-netlify="true" class="mx-auto mt-16 max-w-xl sm:mt-20">
+                    <input type="hidden" name="form-name" value="contact" />
                 <!--<form name="contact" method="POST" class="mx-auto mt-16 max-w-xl sm:mt-20" data-netlify="true">-->
                     <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
                         <div>
