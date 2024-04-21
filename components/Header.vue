@@ -66,9 +66,9 @@
                             <NuxtLink to="/Contrubute" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
                               Contribute
                             </NuxtLink>
-                            <NuxtLink to="/ContactUs" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
+                            <!--<NuxtLink to="/ContactUs" class="text-base font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500 p-3">
                               Contact Us
-                            </NuxtLink>
+                            </NuxtLink>-->
                           </nav>
                         </div>
                       </div>
