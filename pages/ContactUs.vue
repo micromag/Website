@@ -43,7 +43,7 @@
                         </div>
         
                         <div class="sm:col-span-2">
-                            <label for="email" class="block text-sm font-semibold leading-6 text-white">
+                            <label for="emailaddress" class="block text-sm font-semibold leading-6 text-white">
                                 Email
                             </label>
                             <div class="mt-2.5">
