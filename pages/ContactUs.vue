@@ -8,7 +8,7 @@
             </p>
             
             <div class="mt-10 max-w-2xl">
-                <!--<form class="mx-auto mt-16 max-w-xl sm:mt-20" name="Contact" method="POST" netlify>
+                <form class="mx-auto mt-16 max-w-xl sm:mt-20" name="Contact" method="POST" netlify>
                     <input type="hidden" name="form-name" value="Contact" />
                     <div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
                         <div>
@@ -77,8 +77,8 @@
                             </button>
                         </div>
                     </div>
-                </form> -->
-                <form class="md:flex" name="Newsletter" method="POST" netlify>
+                </form>
+                <!--<form class="md:flex" name="Newsletter" method="POST" netlify>
                     <input type="hidden" name="form-name" value="Newsletter" />
                     <label for="name" class="sr-only">Name</label>
                     <input
@@ -107,7 +107,7 @@
                     >
                         Sign up
                     </button>
-                </form>
+                </form> -->
             </div>
         </div>
         <Footer />
