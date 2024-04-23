@@ -23,9 +23,9 @@
         <NuxtLink to ="/Contribute" class="text-md font-semibold leading-6 text-white">
             Contribute
         </NuxtLink>
-        <NuxtLink to ="/ContactUs" class="text-md font-semibold leading-6 text-white">
+        <!--<NuxtLink to ="/ContactUs" class="text-md font-semibold leading-6 text-white">
             Contact Us
-        </NuxtLink>
+        </NuxtLink> -->
       </div>
       <div class="hidden lg:flex lg:flex-1 lg:justify-end">
         <!--<a href="#" class="text-sm font-semibold leading-6 text-gray-900">Log in <span aria-hidden="true">&rarr;</span></a>-->
