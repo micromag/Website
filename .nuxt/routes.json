@@ -3,105 +3,90 @@
     "name": "ContactUs",
     "path": "/ContactUs",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/ContactUs.vue",
-    "chunkName": "pages/ContactUs",
-    "_name": "_233d0175"
+    "chunkName": "pages/ContactUs"
   },
   {
     "name": "Contribute",
     "path": "/Contribute",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Contribute.vue",
-    "chunkName": "pages/Contribute",
-    "_name": "_4a6bbb66"
+    "chunkName": "pages/Contribute"
   },
   {
     "name": "Guidelines",
     "path": "/Guidelines",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Guidelines.vue",
-    "chunkName": "pages/Guidelines",
-    "_name": "_d5653908"
+    "chunkName": "pages/Guidelines"
   },
   {
     "name": "Issue1",
     "path": "/Issue1",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Issue1.vue",
-    "chunkName": "pages/Issue1",
-    "_name": "_b2bf4b1e"
+    "chunkName": "pages/Issue1"
   },
   {
     "name": "Issue2",
     "path": "/Issue2",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Issue2.vue",
-    "chunkName": "pages/Issue2",
-    "_name": "_b2a31c1c"
+    "chunkName": "pages/Issue2"
   },
   {
     "name": "Issue3",
     "path": "/Issue3",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Issue3.vue",
-    "chunkName": "pages/Issue3",
-    "_name": "_b286ed1a"
+    "chunkName": "pages/Issue3"
   },
   {
     "name": "Issue4",
     "path": "/Issue4",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Issue4.vue",
-    "chunkName": "pages/Issue4",
-    "_name": "_b26abe18"
+    "chunkName": "pages/Issue4"
   },
   {
     "name": "Issue5",
     "path": "/Issue5",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Issue5.vue",
-    "chunkName": "pages/Issue5",
-    "_name": "_b24e8f16"
+    "chunkName": "pages/Issue5"
   },
   {
     "name": "Issue6",
     "path": "/Issue6",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Issue6.vue",
-    "chunkName": "pages/Issue6",
-    "_name": "_b2326014"
+    "chunkName": "pages/Issue6"
   },
   {
     "name": "Issue7",
     "path": "/Issue7",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Issue7.vue",
-    "chunkName": "pages/Issue7",
-    "_name": "_b2163112"
+    "chunkName": "pages/Issue7"
   },
   {
     "name": "Issue8",
     "path": "/Issue8",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Issue8.vue",
-    "chunkName": "pages/Issue8",
-    "_name": "_b1fa0210"
+    "chunkName": "pages/Issue8"
   },
   {
     "name": "Magazines",
     "path": "/Magazines",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Magazines.vue",
-    "chunkName": "pages/Magazines",
-    "_name": "_c6640d14"
+    "chunkName": "pages/Magazines"
   },
   {
     "name": "Submissions",
     "path": "/Submissions",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/Submissions.vue",
-    "chunkName": "pages/Submissions",
-    "_name": "_49628e04"
+    "chunkName": "pages/Submissions"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/index.vue",
-    "chunkName": "pages/index",
-    "_name": "_6b8ea109"
+    "chunkName": "pages/index"
   },
   {
     "name": "slug",
     "path": "/:slug",
     "component": "/Users/kerry-annekidd/Documents/Website/micromag/pages/_slug.vue",
-    "chunkName": "pages/_slug",
-    "_name": "_69d7ffc1"
+    "chunkName": "pages/_slug"
   }
 ]
