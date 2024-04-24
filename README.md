@@ -1,4 +1,4 @@
-# RaspiKidd
+# micro:mag
 
 ## Build Setup
 
