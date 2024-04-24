@@ -8,8 +8,13 @@
             </p>
             
             <div class="mt-10 max-w-2xl">
-                <form class="mx-auto mt-16 max-w-xl sm:mt-20" name="ContactUs" method="POST" action="/success" data-netlify-honeypot="bot-field">
-                    <input type="hidden" name="form-name" value="ContactUs" />
+                <form 
+                class="mx-auto mt-16 max-w-xl sm:mt-20" 
+                name="contact" 
+                method="POST" 
+                data-netlify="true"
+                data-netlify-honeypot="bot-field">
+                    <input type="hidden" name="form-name" value="contact" />
                     <p hidden>
 		                <label>Don’t fill this out: <input name="bot-field" /></label>
 	                </p>
