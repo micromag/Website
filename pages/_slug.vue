@@ -70,9 +70,9 @@
             </p>
           </div>
       
-          <div class="mt-8 sm:w-full sm:max-w-md xl:mt-0 xl:ml-8">
+          <!--<div class="mt-8 sm:w-full sm:max-w-md xl:mt-0 xl:ml-8">
 
-            <!--<form class="md:flex" name="Newsletter" netlify action="https://formspree.io/f/moqrdzdn" method="POST">-->
+            
             <form class="md:flex" name="Newsletter" netlify>
               <label for="name" class="sr-only">Name</label>
               <input
@@ -102,7 +102,7 @@
                 Sign up
               </button>
             </form>
-          </div>
+          </div>-->
         </div>
       </div>
     </div>
