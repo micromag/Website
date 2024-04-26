@@ -1,4 +1,6 @@
-export default {
+import { defineNuxtConfig } from "nuxt/config"
+
+export default defineNuxtConfig ({
   // Disable server-side rendering (https://go.nuxtjs.dev/ssr-mode)
   ssr: false,
 
@@ -6,7 +8,7 @@ export default {
   target: 'static',
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
-  head: {
+  useHead: {
     title: 'micro:mag',
     meta: [
       { charset: 'utf-8' },
@@ -30,18 +32,19 @@ export default {
   plugins: [],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
-  components: true,
+ // components: true,
 
   // Modules for dev and build (recommended) (https://go.nuxtjs.dev/config-modules)
-  buildModules: [
+  //buildModules: [],
+
+  // Modules (https://go.nuxtjs.dev/config-modules)
+  modules: [
     // https://go.nuxtjs.dev/typescript
     '@nuxt/typescript-build',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
-  ],
+    '@pinia/nuxt',
 
-  // Modules (https://go.nuxtjs.dev/config-modules)
-  modules: [
     [
       'storyblok-nuxt',
       {
@@ -57,4 +60,4 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {},
-}
+})
