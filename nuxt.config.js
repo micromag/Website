@@ -1,4 +1,4 @@
-import { defineNuxtConfig } from "nuxt/config"
+import { defineNuxtConfig } from "nuxt"
 
 export default defineNuxtConfig ({
   // Disable server-side rendering (https://go.nuxtjs.dev/ssr-mode)
